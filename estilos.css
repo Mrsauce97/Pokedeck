@@ -1,0 +1,76 @@
+body {
+  background-color: #d9d9d9;
+
+}
+.barranav {
+  background-color: #e60000;
+  height: 70px;
+  margin-bottom: 20px;
+
+}
+.barranav img {
+  height: 50px;
+}
+.green {
+  background-color: green;
+  height: 500px;
+}
+.yellow {
+  background-color: yellow;
+  height: 100px;
+}
+.grey {
+  background-color: #d9d9d9;
+}
+/* .columna1 {
+  padding-top: 10px;
+  padding-left: 30px;
+  height: 50px;
+}
+.columna2 {
+  padding-top: 22px;
+  height: 50px;
+} */
+input[type="text"] {
+  border-radius: 16px;
+  color: #737373;
+  font-family: sans-serif;
+  font-size: 14px;
+}
+
+.amigoItem {
+  background-color: yellow;
+  font-family: sans-serif;
+  color: navy;
+  display: inline-block;
+  border-radius: 16px;
+  margin: 16px;
+}
+.cuerpo {
+  background-color: #f2f2f2;
+
+}
+.amigoItem img {
+  border-radius: 16px;
+  height: 350px;
+}
+.pokedeck {
+  background-color: white;
+  height: 510px;
+  width: 270px;
+  margin: 10px 10px;
+  overflow: hidden;
+}
+.foto img {
+  height: 350px;
+  /* width: 100%; */
+}
+.nombre {
+  color: #666666;
+}
+.numero {
+  color: #005ce6;
+}
+.columna {
+
+}
